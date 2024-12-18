@@ -1,0 +1,18 @@
+# File/folder yang harus diabaikan oleh Git
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.log
+.DS_Store
+.env
+*.py~
+*.idea
+*.vscode
+*.migrations/
+
+
+# Pengaturan virtual environment
+venv/
+env/
